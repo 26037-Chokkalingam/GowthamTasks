@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|c:\\users\\chokka.shanmugam\\downloads\\gowthamtasks\\classobjectinheritance\\classobjectinheritance\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|solutionrelative:classobjectinheritance\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|c:\\users\\chokka.shanmugam\\downloads\\gowthamtasks\\classobjectinheritance\\classobjectinheritance\\inheritclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|solutionrelative:classobjectinheritance\\inheritclass1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|c:\\users\\chokka.shanmugam\\downloads\\gowthamtasks\\classobjectinheritance\\classobjectinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|solutionrelative:classobjectinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|c:\\users\\chokka.shanmugam\\downloads\\gowthamtasks\\classobjectinheritance\\classobjectinheritance\\inheritclass5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|solutionrelative:classobjectinheritance\\inheritclass5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|c:\\users\\chokka.shanmugam\\downloads\\gowthamtasks\\classobjectinheritance\\classobjectinheritance\\inheritclass4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|solutionrelative:classobjectinheritance\\inheritclass4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|c:\\users\\chokka.shanmugam\\downloads\\gowthamtasks\\classobjectinheritance\\classobjectinheritance\\inheritclass3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|solutionrelative:classobjectinheritance\\inheritclass3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|c:\\users\\chokka.shanmugam\\downloads\\gowthamtasks\\classobjectinheritance\\classobjectinheritance\\inheritclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E18BC4-BE9D-4D42-9891-EC29BC077867}|ClassObjectInheritance\\ClassObjectInheritance.csproj|solutionrelative:classobjectinheritance\\inheritclass2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\.gitignore",
+              "RelativeDocumentMoniker": "ClassObjectInheritance\\.gitignore",
+              "ToolTip": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\.gitignore",
+              "RelativeToolTip": "ClassObjectInheritance\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-29T15:37:03.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InheritClass5.cs",
+              "DocumentMoniker": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass5.cs",
+              "RelativeDocumentMoniker": "ClassObjectInheritance\\InheritClass5.cs",
+              "ToolTip": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass5.cs",
+              "RelativeToolTip": "ClassObjectInheritance\\InheritClass5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T14:03:33.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InheritClass4.cs",
+              "DocumentMoniker": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass4.cs",
+              "RelativeDocumentMoniker": "ClassObjectInheritance\\InheritClass4.cs",
+              "ToolTip": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass4.cs",
+              "RelativeToolTip": "ClassObjectInheritance\\InheritClass4.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:43:04.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InheritClass3.cs",
+              "DocumentMoniker": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass3.cs",
+              "RelativeDocumentMoniker": "ClassObjectInheritance\\InheritClass3.cs",
+              "ToolTip": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass3.cs",
+              "RelativeToolTip": "ClassObjectInheritance\\InheritClass3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:42:35.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InheritClass2.cs",
+              "DocumentMoniker": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass2.cs",
+              "RelativeDocumentMoniker": "ClassObjectInheritance\\InheritClass2.cs",
+              "ToolTip": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass2.cs",
+              "RelativeToolTip": "ClassObjectInheritance\\InheritClass2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:41:58.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InheritClass1.cs",
+              "DocumentMoniker": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass1.cs",
+              "RelativeDocumentMoniker": "ClassObjectInheritance\\InheritClass1.cs",
+              "ToolTip": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\InheritClass1.cs",
+              "RelativeToolTip": "ClassObjectInheritance\\InheritClass1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:41:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "ClassObjectInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\chokka.shanmugam\\Downloads\\GowthamTasks\\ClassObjectInheritance\\ClassObjectInheritance\\Program.cs",
+              "RelativeToolTip": "ClassObjectInheritance\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T13:39:08.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

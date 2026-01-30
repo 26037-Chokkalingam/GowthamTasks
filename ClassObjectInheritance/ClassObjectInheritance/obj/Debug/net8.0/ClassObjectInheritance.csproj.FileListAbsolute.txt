@@ -1,0 +1,15 @@
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\bin\Debug\net8.0\ClassObjectInheritance.exe
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\bin\Debug\net8.0\ClassObjectInheritance.deps.json
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\bin\Debug\net8.0\ClassObjectInheritance.runtimeconfig.json
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\bin\Debug\net8.0\ClassObjectInheritance.dll
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\bin\Debug\net8.0\ClassObjectInheritance.pdb
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\ClassObjectInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\ClassObjectInheritance.AssemblyInfoInputs.cache
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\ClassObjectInheritance.AssemblyInfo.cs
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\ClassObjectInheritance.csproj.CoreCompileInputs.cache
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\ClassObjectInheritance.sourcelink.json
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\ClassObjectInheritance.dll
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\refint\ClassObjectInheritance.dll
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\ClassObjectInheritance.pdb
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\ClassObjectInheritance.genruntimeconfig.cache
+C:\Users\chokka.shanmugam\Downloads\GowthamTasks\ClassObjectInheritance\ClassObjectInheritance\obj\Debug\net8.0\ref\ClassObjectInheritance.dll
