@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# NuGet
+*.nupkg
+project.lock.json
+project.assets.json
+*.nuget.g.props
+*.nuget.g.targets
+
+# Others
+*.db
+*.vsidx
+*.dtbcache.v2
+*.futdcache.v2
+*.sourcelink.json
